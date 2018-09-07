@@ -1,6 +1,6 @@
 # holbertonschool-zero_day
 ## 0x00-vagrant
-### Hello Ubuntu
+### 0-hello_ubuntu
 This is what the command `uname` prints when I ssh into my Ubuntu VM. 
 ## 0x01-emacs
 ### 0-opening
