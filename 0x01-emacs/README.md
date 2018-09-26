@@ -14,3 +14,7 @@ This is the Emacs command to search forward.
 This is the Emacs command to undo.
 ### 6-quitting
 This is the command to quit Emacs.
+### 100-tetris
+This is the command to play Tetris inside Emacs.
+### 101-doctor
+This is the command to talk to a doctor inside Emacs.
