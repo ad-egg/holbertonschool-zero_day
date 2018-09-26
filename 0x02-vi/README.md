@@ -13,4 +13,8 @@ This is the command to quit vi even though changes have not been saved.
 ### 5-beginning_line
 This is the vi command to move the cursor to the start of the current line. 
 ### 6-end_line
-This is the vi command to move the cursor to the end of the current line. 
+This is the vi command to move the cursor to the end of the current line.
+### 100-move_to_line
+This is the vi command to move the cursor to line 32.
+### 101-delete_line
+This is the vi command to delete the current and previous line at the same time. 
